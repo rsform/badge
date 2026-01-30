@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BooskieBadge")(type "KiCad")(uri "${KIPRJMOD}/BooskieBadge.kicad_sym")(options "")(descr ""))
+  (lib (name "NOIT")(type "KiCad")(uri "/home/orual/Projects/NOIT/KiCAD_Design/NOIT.kicad_sym")(options "")(descr ""))
+)

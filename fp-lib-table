@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BooskieBadge")(type "KiCad")(uri "${KIPRJMOD}/BooskieBadge.pretty")(options "")(descr ""))
+)
