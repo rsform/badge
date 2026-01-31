@@ -3,4 +3,5 @@
   (lib (name "BooskieBadge")(type "KiCad")(uri "${KIPRJMOD}/BooskieBadge.kicad_sym")(options "")(descr ""))
   (lib (name "NOIT")(type "KiCad")(uri "/home/orual/Projects/NOIT/KiCAD_Design/NOIT.kicad_sym")(options "")(descr ""))
   (lib (name "Connector_USB_PCB_Edge")(type "KiCad")(uri "/home/orual/Git_Repos/PCB-Edge-USB-connector-KiCad-library/symbols/Connector_USB_PCB_Edge.kicad_sym")(options "")(descr ""))
+  (lib (name "tinkerforge")(type "KiCad")(uri "/home/orual/Git_Repos/kicad-libraries/tinkerforge.kicad_sym")(options "")(descr ""))
 )
