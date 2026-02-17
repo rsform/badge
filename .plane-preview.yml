@@ -1,0 +1,15 @@
+plane:
+  base_url: http://localhost:8000
+  workspace: test-workspace
+
+commit_patterns:
+  - prefix: "TEST"
+    project: "b52550be-5fe6-4144-a4e8-c8b3afea6dce"
+
+path_mappings:
+  - pattern: "**/*.kicad_sch"
+    project: "b52550be-5fe6-4144-a4e8-c8b3afea6dce"
+    default_issue: "TEST-8"
+  - pattern: "**/*.kicad_pcb"
+    project: "b52550be-5fe6-4144-a4e8-c8b3afea6dce"
+    default_issue: "TEST-8"
